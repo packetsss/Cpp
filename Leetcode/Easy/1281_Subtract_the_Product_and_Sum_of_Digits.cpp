@@ -10,10 +10,6 @@ using namespace std;
 time_t start, end1;
 int n = 10222345;
 
-
-
-
-
 int main()
 {   
     time(&start);

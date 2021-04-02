@@ -21,6 +21,8 @@ public:
     }
 };
 
+// -------- BELOW is used to call the class above --------- //
+
 int main()
 {
     ParkingSystem p(1, 1, 0);
