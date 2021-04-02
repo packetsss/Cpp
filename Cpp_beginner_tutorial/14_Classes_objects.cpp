@@ -104,4 +104,7 @@ int main(){
     cout << SpecialBook().title << endl; // access it's own variable
     cout << SpecialBook().pages << endl; // access Book2's variable
     
+    int i;
+    cout << i++ << endl;
+    
 }
